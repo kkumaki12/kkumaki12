@@ -18,4 +18,4 @@
 
 <h2 align="left">skills:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,ts,vue,html,css,aws,terraform,docker,githubactions,mysql,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,ruby,rails,js,ts,vue,html,css,aws,terraform,docker,githubactions,mysql,redis)](https://skillicons.dev)
